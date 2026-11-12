@@ -1,3 +1,9 @@
+libbno08x (0.1+kosmos-1~deb13) trixie; urgency=medium
+
+  * Update packaging for KosmOS (trixie).
+
+ -- Matteo Piscitelli <matteo@matteopiscitelli.it>  Thu, 12 Nov 2026 16:57:18 +0100
+
 libbno08x (0.1-1) bookworm; urgency=medium
 
   * Conform versioning to debian. 

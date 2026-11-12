@@ -1,12 +1,12 @@
 Source: libbno08x
 Priority: optional
-Maintainer: Dušan Poizl <nou@nouspiro.space>
-Build-Depends: debhelper (>= 9),
+Maintainer: Matteo Piscitelli <matteo@matteopiscitelli.it>
+Build-Depends: debhelper-compat (= 13),
               cdbs,
               cmake,
               pkg-config,
               libgpiod-dev
-Standards-Version: 4.5.0
+Standards-Version: 4.7.0
 Section: libs
 Homepage: https://github.com/knro/libbno08x
 Vcs-Git: https://github.com/knro/libbno08x.git

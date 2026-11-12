@@ -1,3 +1,4 @@
 usr/lib/*/libbno08x.so
 usr/include
 usr/lib/*/cmake
+usr/share/pkgconfig/bno08x.pc
